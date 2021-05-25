@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DejanPopov :)
 - 👀 I’m interested in ... programming! Mostly embedded stuff and making games!
-- 🌱 I’m currently learning ... Bare-Metal programming.
+- 🌱 I’m currently learning ... C#/C++ development.
 - 💞️ I’m looking to collaborate on ... Lady Luck take over this one ?
 - 📫 How to reach me ... https://www.linkedin.com/in/dejan-popov-779343107/
 
