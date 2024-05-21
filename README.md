@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DejanPopov :)
-- 👀 I’m interested in ... programming! Making games!
-- 🌱 I’m currently learning ... C++ development /w Unreal Engine 5.
-- 💞️ I’m looking to collaborate on ... Lady Luck take over this one ?
+- 👋 Hi, I’m @Dejan
+- 👀 I’m interested in ... Programming and Computer Science Engineering
+- 🌱 I’m currently learning ... Godot4 /w C++,C#
+- 💞️ I’m looking to collaborate on ... Games
 - 📫 How to reach me ... https://www.linkedin.com/in/dejan-popov-779343107/
 
 <!---
