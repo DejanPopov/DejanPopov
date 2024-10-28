@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ... Games
 - 📫 How to reach me ... https://www.linkedin.com/in/dejan-popov-779343107/
 
-<!---
-DejanPopov/DejanPopov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/pixelthehammer"><img src="https://api.daily.dev/devcards/v2/sS6algzCV0Wn8vZkx1zhT.png?type=default&r=5wr" width="356" alt="Dejan Popov's Dev Card"/></a>
