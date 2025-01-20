@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Dejan
 - 👀 I’m interested in ... Programming and Computer Science Engineering
-- 🌱 I’m currently learning ... UNreal ENgine /w C++
+- 🌱 I’m currently learning ... Unreal Engine /w C++
 - 📫 How to reach me ... https://www.linkedin.com/in/dejan-popov-779343107/
