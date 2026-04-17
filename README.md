@@ -1,4 +1,4 @@
 - (๑'ᵕ'๑)⸝* Hi, I’m @Dejan
 - I’m interested in ........ Programming and Computer Science Engineering
-- I’m currently learning ... Gododt / GDScript
+- I’m currently learning ... Godot / GDScript
 - How to reach me .......... https://www.linkedin.com/in/dejan-popov-779343107/
